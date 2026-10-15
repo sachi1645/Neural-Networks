@@ -1,0 +1,3 @@
+method,trainable_parameters,epochs,final_train_accuracy_percent,final_validation_accuracy_percent,final_validation_loss
+Fine tuning,11177538,10,94.26229508196721,92.15686274509804,0.2249954879474887
+Feature extractor (frozen backbone),1026,10,97.1311475409836,95.42483660130719,0.13715025205986903

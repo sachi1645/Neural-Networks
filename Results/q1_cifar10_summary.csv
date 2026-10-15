@@ -1,0 +1,2 @@
+model,epochs,train_loss,train_accuracy_percent,test_loss,test_accuracy_percent,training_time_seconds
+Manual MLP (3072-100-sigmoid-10),10,1.5590042303466798,46.862,1.6087894641876221,44.62,117.31665205955505

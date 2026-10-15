@@ -1,0 +1,3 @@
+model,epochs,final_train_accuracy_percent,final_test_accuracy_percent,final_train_loss,final_test_loss
+LeNet-5,10,99.205,99.05,0.02612041623344024,0.027800145155750217
+Modern 3-layer CNN + BN + dropout,10,97.57,98.95,0.08564361257652442,0.03758031836003065
